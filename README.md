@@ -1,2 +1,4 @@
 # vlsm-calculator
-calculadora de subnetting de VLSM en Bash
+## Descripción
+Calculadora de subnetting de VLSM en Bash
+Hecha con AI, para facilitar el subneteo de redes.
